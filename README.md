@@ -1,3 +1,4 @@
 # Tahsily-Progress
-watch your progress in tahsily at your phone
+
+This app allows you to track your Tahsily study progress.
 
