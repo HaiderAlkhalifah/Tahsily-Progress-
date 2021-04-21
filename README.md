@@ -4,7 +4,9 @@
 
 This app allows you to track your Tahsily study progress.
 
-[Download](https://play.google.com/store/apps/details?id=com.haider.tahsily_progress) it from Google Play
+Currently available on the Play store.
+
+<a href="https://play.google.com/store/apps/details?id=com.haider.tahsily_progress" ><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="80px"/></a>
 
 Also if you don't have an Android device or you prefer using a browser, we have [Hadi](https://github.com/hadialqattan)'s [tahsily-progress-calculator](https://github.com/hadialqattan/tahsily-progress-calculator) website.
 
